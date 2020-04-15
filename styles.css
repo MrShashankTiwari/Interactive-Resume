@@ -74,16 +74,16 @@ hr{
 
 .top-cloud {
   position: absolute;
-  right: 100px;
-  top: 20px;
+  right: 1rem;
+  top: 0.1rem;
   width: 25%;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 100px;
-  top: 100px;
-  margin-top: 70px;
+  left: 4rem;
+  top: 8rem;
+  margin-top: 0.7rem;
   width: 25%;
 }
 
